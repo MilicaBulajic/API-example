@@ -1,0 +1,60 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@MilicaBulajic 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+ 
+0
+0 0 MilicaBulajic/naissusinteriors
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
+naissusinteriors/.gitignore
+@MilicaBulajic MilicaBulajic pages
+b99e166 on Jun 23
+We found potential security vulnerabilities in your dependencies.
+Only the owner of this repository can see this message.
+
+24 lines (18 sloc)  310 Bytes
+    
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
